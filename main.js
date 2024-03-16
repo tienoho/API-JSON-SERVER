@@ -25,7 +25,7 @@ server.use((req,res,next) => {
     
     //use default router
     server.use(router);
-    server.listen (5298,() => {
+    server.listen (3000,() => {
         console.log('JSON server is running');
     });
 
