@@ -1,0 +1,151 @@
+{
+    "result": [
+      {
+        "id": "1",
+        "MaQuay": "1",
+        "SoThuTuBook": "1005",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "2",
+        "MaQuay": "2",
+        "SoThuTuBook": "1007",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "3",
+        "MaQuay": "3",
+        "SoThuTuBook": "3002",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "4",
+        "MaQuay": "4",
+        "SoThuTuBook": "4006",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "5",
+        "MaQuay": "5",
+        "SoThuTuBook": "5009",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "6",
+        "MaQuay": "5",
+        "SoThuTuBook": "4007",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "7",
+        "SoThuTuBook": "4004",
+        "MaQuay": "7",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "8",
+        "MaQuay": "8",
+        "SoThuTuBook": "4009",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "9",
+        "MaQuay": "9",
+        "SoThuTuBook": "4009",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "10",
+        "MaQuay": "10",
+        "SoThuTuBook": "4008",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "11",
+        "MaQuay": "11",
+        "SoThuTuBook": "9009",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "12",
+        "MaQuay": "12",
+        "SoThuTuBook": "4009",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "13",
+        "MaQuay": "13",
+        "SoThuTuBook": "4008",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "14",
+        "MaQuay": "14",
+        "SoThuTuBook": "4009",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "15",
+        "MaQuay": "15",
+        "SoThuTuBook": "9008",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "16",
+        "MaQuay": "16",
+        "SoThuTuBook": "4009",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "17",
+        "MaQuay": "17",
+        "SoThuTuBook": "4009",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      },
+      {
+        "id": "18",
+        "MaQuay": "18",
+        "SoThuTuBook": "4009",
+        "TGGiaoDich": "01/02/2024 09:30",
+        "status": "goimoi"
+      }
+  
+    ],
+    "printer": [
+      {
+        "id": "1",
+        "MaPrinter": "64",
+        "MaQPrint": "1",
+        "STTPrint": "1008",
+        "TGPrint": "01/02/2024 09:30",
+        "Status": "inmoi"
+      },
+      {
+        "id": "2",
+        "MaPrinter": "65",
+        "MaQPrint": "1",
+        "STTPrint": "1008",
+        "TGPrint": "01/02/2024 09:30",
+        "Status": "inmoi"
+      }
+    ],
+    "message": "thanh cong",
+    "error code": 0
+  }
