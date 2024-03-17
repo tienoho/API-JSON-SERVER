@@ -1,18 +1,12 @@
 {
   "name": "json-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Deploy JSON Server to Vercel",
   "main": "main.js",
   "scripts": {
-    "start": "json-server --watch db.json",
-    "test": "echo \"Error: no test specified\" && exit 1"
-    },
-  "author": "ThanhHung",
-  "license": "MIT",
+    "start": "node main.js"
+  },
   "dependencies": {
     "json-server": "^1.0.0-alpha.23"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.0"
   }
 }
