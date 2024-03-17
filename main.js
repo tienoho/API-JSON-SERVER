@@ -2,6 +2,11 @@ const jsonserver = require('json-server');
 const server =jsonserver.create;    
 const router = jsonserver.router;
 const middleware = jsonserver.defaults;
+
+// Comment out to allow write operations
+const router = jsonServer.router('db.json')
+
+
 // sset default middlleware(logger,)
 server.use(middleware);
 // add custom
